@@ -1,0 +1,23 @@
+.DS_Store
+doc/
+web/
+figures/
+docs/
+personalPortfolio/
+
+# Raw/private study materials. These contain student names, timestamps,
+# form responses, or small-n individual records and should not be published
+# without explicit consent/IRB approval.
+assessments/
+!assessments/.gitkeep
+assessments/name_aliases_private.csv
+assessments/sensitive_terms_private.csv
+output/
+RESULTS_FOR_TEAM.md
+PANEL_STATS.md
+PANEL_SCRIPT.md
+PIPELINE_CRASH_COURSE.md
+archive/
+
+# Old exploratory figures are retained locally but not part of the public release.
+figures/_archive/

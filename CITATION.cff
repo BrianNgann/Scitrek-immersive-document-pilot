@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Immersive vs. Document-Based Virtual Learning Pilot"
+message: "If you use this dataset or analysis code, please cite it using this metadata."
+type: dataset
+authors:
+  - family-names: Subramanian
+    given-names: Siddhant
+  - family-names: Ngan
+    given-names: Brian
+  - family-names: Chauhan
+    given-names: Tishya
+  - family-names: Tanaka
+    given-names: Kevin
+year: 2026
+version: "0.1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/Anteater10/Scitrek-immersive-document-pilot"
+url: "https://github.com/Anteater10/Scitrek-immersive-document-pilot"
+abstract: "Aggregate eye-tracking and assessment-summary outputs from a pilot study comparing immersive web and document-based delivery of a SciTrek bioinformatics curriculum."
