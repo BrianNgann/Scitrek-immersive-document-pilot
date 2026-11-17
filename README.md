@@ -2,6 +2,8 @@
 
 Analysis code and aggregate summaries for a pilot comparing immersive web and document-based delivery of the SciTrek bioinformatics curriculum.
 
+This is Brian Ngan's portfolio fork of the [team's public release](https://github.com/Anteater10/Scitrek-immersive-document-pilot). Brian is listed among the project authors in `CITATION.cff`. This fork contains the same aggregate-only release, with the original team and data attribution preserved.
+
 ## Public Release
 
 The public dataset is in `data/processed/`. Code uses base R. Code is licensed under MIT; aggregate data are licensed under CC BY 4.0.
@@ -28,4 +30,4 @@ Scripts 01, 02, and 07 are local analysis/figure tools. Their unsuppressed outpu
 
 ## Citation
 
-Use `CITATION.cff` to cite this prepared dataset. Public release approval under the study's consent and data-sharing terms remains to be confirmed by the study owner.
+Use `CITATION.cff` to cite this prepared dataset. The project contributor confirmed that the study owner approved public sharing of the aggregate release. No raw participant data are included in this fork.

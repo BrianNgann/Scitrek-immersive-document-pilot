@@ -1,4 +1,6 @@
-# Publication Status
+# Original Publication Checklist
+
+This file records the checks used to prepare the initial public release. The project contributor confirmed study-owner approval for public sharing of the aggregate release before this portfolio fork was created.
 
 The prepared release has fresh Git history and an explicit file list. The local research repository and its history are preserved separately.
 
